@@ -1,0 +1,8 @@
+-- SOLUTION 1
+
+SELECT 
+    *
+FROM
+    CITY
+WHERE
+    ID = 1661;

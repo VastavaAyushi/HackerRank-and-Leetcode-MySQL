@@ -1,0 +1,6 @@
+-- SOLUTION 1
+
+SELECT 
+    *
+FROM
+    CITY;
